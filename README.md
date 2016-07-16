@@ -2,4 +2,4 @@
 
 Game about a bear in the forest
 
-Jaylon cloned this game! 
+Jaylon cloned this game! -new pull request.
